@@ -123,30 +123,31 @@ I'm interested in internships, remote teams, and open-source projects where I ca
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="http://rozgar-sathi-xi.vercel.app/">Rozgar Sathi</a></h3>
+      Built solo for the Alibaba Cloud AI Hackathon 2026. A career prep platform with a voice-driven mock interview: an AI avatar asks the questions, picks the next one based on your answers, and gives you a session report. It also handles resume tailoring and job search.<br/><br/>
+      <sub><b>Stack:</b> MongoDB, Express, React, Node.js, Alibaba Cloud Qwen and WAN</sub><br/>
+      <sub><b>Why it's interesting:</b> a full product with a deployed frontend and backend, where the interview flow has to stay coherent across a live conversation.</sub><br/>
+      <sub><a href="http://rozgar-sathi-xi.vercel.app/">Live demo</a></sub>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/saadBinMumtaz/e-mail-detector">Opportunity Inbox Copilot</a></h3>
       Built for the SOFTEC 2026 AI hackathon at FAST-NU Lahore. It takes a pile of scholarship, internship and competition emails, pulls out deadlines and eligibility, and ranks them against a student profile.<br/><br/>
       <sub><b>Stack:</b> React, Vite, Tailwind CSS, AI-based parsing</sub><br/>
       <sub><b>Why it's interesting:</b> a fixed scoring formula (urgency, profile fit, completeness) sits on top of the AI extraction, so the ranking can be explained instead of being a black box.</sub>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/saadBinMumtaz/Citier-Travel-Agency">Citier Travel Agency</a></h3>
       A travel management system in C++ with separate Admin, Employee and Customer modules.<br/><br/>
       <sub><b>Stack:</b> C++</sub><br/>
       <sub><b>Why it's interesting:</b> three user roles with different permissions in one codebase, which forces a clear split of responsibilities.</sub>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3><a href="https://github.com/saadBinMumtaz/bank-heist">Bank Heist</a></h3>
       A multi-level, story-driven game in C++ where the player works through a bank robbery mission.<br/><br/>
       <sub><b>Stack:</b> C++</sub><br/>
       <sub><b>Why it's interesting:</b> a good exercise in keeping state and progression organized across levels.</sub>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/saadBinMumtaz/cyber-dashboard">Cyber Dashboard</a></h3>
-      A dashboard UI with a cyber theme, animations and visual effects.<br/><br/>
-      <sub><b>Stack:</b> HTML, CSS</sub><br/>
-      <sub><b>Why it's interesting:</b> the frontend craft side: layout, motion and theming without a framework.</sub>
     </td>
   </tr>
 </table>
