@@ -73,7 +73,7 @@ I'm interested in internships, remote teams, and open-source projects where I ca
 <table>
   <tr>
     <td width="130"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" alt="JavaScript, Python, C++" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,py,c,cpp,cs,bash&theme=dark" alt="JavaScript, Python, C, C++, C#, Bash" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
@@ -81,11 +81,11 @@ I'm interested in internships, remote teams, and open-source projects where I ca
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, FastAPI" /></td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB, MySQL, PostgreSQL" /></td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
@@ -94,6 +94,7 @@ I'm interested in internships, remote teams, and open-source projects where I ca
   <tr>
     <td><b>Also used</b></td>
     <td>
+      <img src="https://img.shields.io/badge/pgAdmin-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="pgAdmin" />
       <img src="https://img.shields.io/badge/PyQt5-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PyQt5" />
       <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Pandas" />
       <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Matplotlib" />
@@ -110,8 +111,8 @@ I'm interested in internships, remote teams, and open-source projects where I ca
 | Level | Technologies |
 | :-- | :-- |
 | Primary focus | Node.js, Express.js |
-| Working knowledge | JavaScript, React, MongoDB, REST APIs, authentication, Git, Postman |
-| Used in coursework and projects | Python, C++, PyQt5, Pandas, Matplotlib, DSA, OOP, database design |
+| Working knowledge | JavaScript, React, MongoDB, PostgreSQL, pgAdmin, FastAPI, REST APIs, authentication, Git, Postman |
+| Used in coursework and projects | Python, C, C++, C#, Bash, MySQL, PyQt5, Pandas, Matplotlib, DSA, OOP, database design |
 | Reading and practicing | System design, caching, queues, API versioning |
 
 </details>
